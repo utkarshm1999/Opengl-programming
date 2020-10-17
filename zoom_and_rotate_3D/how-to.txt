@@ -1,0 +1,3 @@
+Command to compile:  g++ 3dmesh_zoom_rotate.cpp -lGL -lGLU -lglut 
+
+NOTE: Please keep the .obj file in the same folder as the code
